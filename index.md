@@ -5,4 +5,4 @@ layout: default
 My name is Entraptadoeztech!
 <br>
 <br>
-[Check out my projects!](./project/main.md)
+[Check out my projects!](./projects/main.md)
