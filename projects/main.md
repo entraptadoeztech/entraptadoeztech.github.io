@@ -7,4 +7,6 @@ layout: default
 - [Old prodigy](UGS.html)
   
 ![idk](../imgs/IMG_0419.gif)
+
+- [back to home](..index.html)
   
