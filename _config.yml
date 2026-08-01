@@ -3,3 +3,4 @@ description: welcome to my workshop!
 show_my-links: true
 google_analytics:
 theme: jekyll-theme-hacker
+show_main_content: false
