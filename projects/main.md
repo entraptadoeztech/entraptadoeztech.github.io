@@ -5,7 +5,7 @@ layout: default
 ## welcome to the project page!
 ### please check out my projects
 - [Old prodigy](UGS.html)
-- [blog](../blog/main.md)
+- [blog](../blog/blog.md)
   
 ![idk](../imgs/IMG_0419.gif)
 
