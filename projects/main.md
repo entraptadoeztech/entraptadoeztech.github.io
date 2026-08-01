@@ -6,3 +6,5 @@ layout: default
 ### please check out my projects
 - [Old prodigy](UGS.html)
   
+![idk](../imgs/IMG_0419.gif)
+  
