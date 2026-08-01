@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ### Welcome to the blog section of my website!
 [Enter blog!](./index.html)
 <br>
