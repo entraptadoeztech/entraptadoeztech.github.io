@@ -10,4 +10,4 @@ layout: default
 -[Google Doodle Island](GDI.html)
 <br>
 <br>
-> [Back to home!](…/index.html)
+> [Back to home!](..index.html)
