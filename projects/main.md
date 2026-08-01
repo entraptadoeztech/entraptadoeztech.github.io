@@ -4,8 +4,8 @@ layout: default
 
 ## welcome to the project page!
 ### please check out my projects
-- [Old prodigy](UGS.html)
 - [blog](blog.html)
+- [games](./games/GDI.html)
   
 ![idk](../imgs/IMG_0419.gif)
 
