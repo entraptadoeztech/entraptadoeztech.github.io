@@ -6,4 +6,4 @@ layout: default
 
 -[Create a simple website from scratch](web-builder.html)
 
->[Back to projects](../projects/main.md)
+>[Back to projects](../main.md)
