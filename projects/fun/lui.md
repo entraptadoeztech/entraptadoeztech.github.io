@@ -14,6 +14,6 @@ layout: default
 
 #### I thought we were ***just*** friends lol…
 
-> [Back to projects](../projects/main.md)
+> [Back to projects](./projects/main.md)
 
 
