@@ -4,8 +4,9 @@ layout: default
 
 ## welcome to the project page!
 ### please check out my projects
-- [blog](blog.html)
-- [games](./games/main.md)
+- [Blog](blog.html)
+- [Games](./games/main.md)
+- [Fun!](./fun/main.md)
   
 ![idk](../imgs/IMG_0419.gif)
 
