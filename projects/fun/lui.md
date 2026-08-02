@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default 
 ---
 ## Welcome lui!
 #### I got veryyyy incriminating evidence against you
