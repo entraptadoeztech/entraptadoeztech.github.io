@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 ---
 ## Welcome lui!
 #### I got veryyyy incriminating evidence against you
@@ -12,7 +12,7 @@ layout: default
 
 ![wow](img/IMG_0893.jpeg)
 
-#### I thought we were ***just*** friends lol…
+#### Veryyyy interesting Lui………
 
 > [Back to projects](../main.md)
 
