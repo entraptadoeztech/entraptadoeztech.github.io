@@ -11,7 +11,7 @@ layout: default
 
 -[Google Doodle Island](GDI.html)
 
--[Hollow Knight!](hallow.html)
+-[Hollow Knight!](hollow.html)
 
 ### Coded by me!
 
