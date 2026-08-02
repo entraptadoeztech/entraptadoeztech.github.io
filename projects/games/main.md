@@ -17,5 +17,5 @@ layout: default
 
 - [UGS game launcher](space-launcher.html)
 <br>
-<br>
+
 > [Back to projects!](../main.md)
