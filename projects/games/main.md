@@ -5,17 +5,17 @@ layout: default
 
 ### My Games(I ported)!
 
--[Old prodigy, 3-15-3](prodigy.html)
+- [Old prodigy, 3-15-3](prodigy.html)
 
 ### Ported by someone else(or I contributed to it)
 
--[Google Doodle Island](GDI.html)
+- [Google Doodle Island](GDI.html)
 
--[Hollow Knight!](hollow.html)
+- [Hollow Knight!](hollow.html)
 
 ### Coded by me!
 
--[UGS game launcher](space-launcher.html)
+- [UGS game launcher](space-launcher.html)
 <br>
 <br>
 > [Back to projects!](../main.md)
