@@ -6,7 +6,7 @@ layout: default
 ### My Games(I ported)!
 
 - [Old prodigy, 3-15-3](prodigy.html)
-
+- [Old prodigy selection](prodigy-select.html)
 ### Ported by someone else(or I contributed to it)
 
 - [Google Doodle Island](GDI.html)
