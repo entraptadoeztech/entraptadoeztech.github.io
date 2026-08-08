@@ -3,11 +3,13 @@
 
 ### Directory map
 ```
-entraptadoeztech.nya.je(my root domain)
+https://entraptadoeztech.nya.je/(my root domain)
 |
+├─main.md
 ├─Projects
      |
      v
    main.md
 ├─lib
 ├─imgs
+├─_sass
