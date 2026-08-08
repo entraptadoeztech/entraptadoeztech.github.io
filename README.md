@@ -13,4 +13,4 @@ https://entraptadoeztech.nya.je/(my root domain)
 ├─lib
 ├─imgs
 ├─_sass
-├─_layout
+├─_layouts
