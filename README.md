@@ -10,4 +10,4 @@ entraptadoeztech.nya.je(my root domain)
      v
    main.md
 ├─lib
-├─
+├─imgs
