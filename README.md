@@ -6,10 +6,19 @@
 https://entraptadoeztech.nya.je/(my root domain)
 |
 ├─main.md
-├─Projects
+├─projects
      |
      v
-   main.md
+main.md
+>games
+   |
+   v
+main.md
+>fun
+  |
+  v
+main.md
+[other files]
 ├─lib
 ├─imgs
 ├─_sass
